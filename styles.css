@@ -30,3 +30,8 @@ a {
 a:visited {
   color:darkblue;
 }
+
+.vid {
+  border: solid darkblue 2px;
+  border-radius:6px;
+} 
